@@ -1,0 +1,82 @@
+                                                                                             MODULE :1(SDLC)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+   Q.1    What is software ? What is software engineering?
+
+   Ans.-  Software is a set of instructions ,data or programs used to operate the computers and execute specific tasks.
+                                                                           or   
+              All the programs that run the computer are software.
+
+            Software  Engineering---> Software engineering is the process of designing, developing, testing and maintaining the  software.
+                                                  --  It is a systematic and disciplined approach to software development.
+                                                  --  The result of software engineering is an effective and reliable software product.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+   Q.2   Explain types of software?
+
+   Ans.- There are three types of software-
+             (i)   System software 
+             (ii)  Programming software
+             (iii) Application software 
+
+            (i) System software- These software programs are designed to run a computer's application programs and hardware.
+                                           - System software co-ordinates the activities and function of the hardware and software.
+                                           - The OS is the best example of system software , it manages all the computer programs.
+
+            (ii) Programming software- Computer programmers use programming software to write code.
+                                                      - Programming software tools enable developers to develop, write,test and debug other software programs.
+                                                      - Example of programming software includes assemblers ,compilers and interpreters.
+
+            (iii)Application software - It is the most common type of software. Application software is a computer software package that prefers a
+                                                       specific function for user.
+                                                    - Example of application software includes office suites, graphics software , database and database management programs,
+                                                        web browsers ,word processor, image editors etc.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  Q.3  What is SDLC? Explain each phase of SDLC?
+
+Ans.- SDLC stands for "Software Development Life Cycle".
+        - SDLC is a collection of processes which are followed to develop a software.
+        -The main aim of SDLC is to detailed plan for building, deploying,and maintaining the software.
+    
+         Phases of SDLC-
+
+       1. Requirement:- The main aim of this phase is to collect the details of requirements of the customers so that, developers will clearly understand  
+                                    what they are developing and how to fulfil the customers requirements.
+   
+       2. Analysis:-  It is the second phase of SDLC. In this phase the project team will analyze the requirements to understand what need to be
+                             done to create the software solution.
+
+       3.Design:-   It is the third phase of SDLC.In this phase the team begins to create the software architecture, design the user interface and code the software.
+                           This phase provides a prototype of the final product.
+
+       4.Implementation/Coding:- In this phase the team will write the code and create the necessary files and components to complete the project.
+
+       5.Testing:- The testing phase is used to verify the  functionality of the system. And the team will test the software to ensure that it meets the user requirements
+                          and is bug-free.This phase is key to the success of project that the software is developed properly.
+
+      6.Maintainance:- In this phase the team also create a maintainance plan to ensure that any changes or updates to the software are properly implemented.
+                                  And the team also create a backplan,and also create user feedback system. In this phase the software is properly maintained.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                
+ Q.4  What is DFD? Create a DFD diagram on Flipkart?
+
+Ans.- DFD stands for Data Flow Diagram.
+         A data flow diagram is a diagram  notation used in software engineering. It depicts the flow data or information within a system (usually an information
+          system). It focuses exclusively on information transfer between the parts of a system and it purposely omits any control flows, loops, or processing rules.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Q.5 What is Flow Chart ? Create a flow chart to make a addition of two numbers.
+
+ Ans.-A flowchart is a type of diagram that represents a work flow or process.It can also be defined as a diagrammatic representation of an algorithm, 
+          a step by step approach to solving a task.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Q.6 What is use case diagram? Create a use case on bill-payment on paytm.
+
+ Ans.- A use case diagram is a way to summarize details of a system and the users within that system.It is generally shows a model scenario in which individuals
+            interact with a system using a series of specialized symbols and connectors.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
